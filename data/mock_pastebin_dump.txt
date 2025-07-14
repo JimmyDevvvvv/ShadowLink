@@ -1,0 +1,4 @@
+Leaked users:
+alice@corp.com:password123
+bob@corp.com:123456
+sales@random.com:abc123

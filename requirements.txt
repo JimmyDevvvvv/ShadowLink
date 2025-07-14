@@ -1,0 +1,9 @@
+requests
+pandas
+scikit-learn
+matplotlib
+seaborn
+streamlit
+flask
+joblib
+schedule
